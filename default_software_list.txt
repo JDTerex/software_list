@@ -1,0 +1,46 @@
+from tom's hardware guide: 45 Best Free Windows Apps
+
+Steam
+Skitch Screencap
+Ninite
+Speccy
+Paint.NET
+GIMP
+Everything file search
+Notepad++
+LibreOffice
+VLC Media Player
+ImgBurn
+VirtualBox
+
+**NINITE SETUP
+  WEB BROWSWERS
+    Chrome
+    Firefox
+RUNTIMES
+DOCUMENTS
+  Foxit Reader
+  LibreOffice
+ONLINE STORAGE
+  Google Backup and Sync
+  OneDrive
+COMPRESSION
+  PeaZip
+MESSAGING
+IMAGING
+  Paint.NET
+  Greenshot  
+FILE SHARING
+OTHER
+MEDIA
+  Audacity
+  K-Lite Codecs
+DEVELOPER TOOLS
+  Python
+  Notepad++
+  Visual Studio Code
+SECURITY
+UTILITIES
+  ImgBurn
+  WinDirStat
+
